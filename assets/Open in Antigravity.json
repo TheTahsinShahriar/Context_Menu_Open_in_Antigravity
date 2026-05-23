@@ -1,0 +1,12 @@
+{
+  "title": "Open in Antigravity",
+  "index": 0,
+  "exe": "\"%LocalAppData%\\Programs\\Antigravity IDE\\Antigravity IDE.exe\"",
+  "param": "\"{path}\"",
+  "icon": "\"%LocalAppData%\\Programs\\Antigravity IDE\\Antigravity IDE.exe\",0",
+  "acceptDirectoryFlag": 15,
+  "acceptFileFlag": 4,
+  "acceptMultipleFilesFlag": 1,
+  "showWindowFlag": 0,
+  "workingDirectory": "{parent}"
+}
